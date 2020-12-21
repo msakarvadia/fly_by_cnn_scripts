@@ -10,7 +10,6 @@ for f in $data_path
     do
         if [[ "$f" == *"mid_surface_rsl_left_327680_native_SA.ascii_100iter.txt" ]]
             then
-                out=""
                 property=$f
                 out="$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r.nrrd"
         fi
@@ -20,10 +19,11 @@ for f in $data_path
         fi
         if [[ $property != ""  &&  $surface != "" ]]
             then
+                echo $out
+                python3.8 $fly_by_path/fly_by_features.py --surf $surface --property $property --subdivision 4 --out ../Conte_left_1_2_fly_by/$out --norm_shader 0 --center True --scale_factor 103.83249415945663
                 property=""
                 surface=""
                 out=""
-                python3 $fly_by_path/fly_by_features.py --surf $surf --property $property --subdivision 4 --out ../Conte_left_1_2_fly_by/$out --norm_shader 0
                
         fi
 
