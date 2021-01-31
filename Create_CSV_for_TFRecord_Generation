@@ -1,0 +1,10 @@
+#!/bin/bash
+
+data_path_left=/work/mansisak/data/Conte/Conte_left_1_2_fly_by_VGG19_features_small/*
+data_path_right=/work/mansisak/data/Conte/Conte_left_1_2_fly_by_VGG19_features_small
+out=""
+
+for f in $data_path_left
+    do
+        echo $f
+    done

@@ -20,7 +20,9 @@ for f in $data_path
         if [[ $property != ""  &&  $surface != "" ]]
             then
                 echo $out
-                python3.8 $fly_by_path/fly_by_features.py --surf $surface --property $property --subdivision 4 --out ../Conte_left_1_2_fly_by/$out --norm_shader 0 --center True --scale_factor 103.83249415945663
+                pwd
+                #python3.8 $fly_by_path/fly_by_features.py --surf $surface --property $property --subdivision 4 --out ../data/Conte_left_1_2_fly_by/$out --norm_shader 0 --scale_factor 0.9773389844178014
+                python3.8 $fly_by_path/fly_by_features.py --surf $surface --property $property --subdivision 4 --out ../data/Conte_left_1_2_fly_by_small_factor/$out --norm_shader 0 --scale_factor 0.8049401485964498
                 property=""
                 surface=""
                 out=""

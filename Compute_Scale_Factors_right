@@ -1,0 +1,21 @@
+#!/bin/bash
+
+data_path=/ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+fly_by_path=../fly-by-cnn/src/py
+surface=""
+out=""
+
+for f in $data_path
+    do
+        if [[ "$f" == *"white_surface_rsl_right_327680_native_ITKspace.vtk" ]]
+            then
+                surface=$f
+                out="$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r.nrrd"
+                echo $out
+                python3.8 $fly_by_path/compute_scale_factor.py --surf $surface --out ../data/fly-by-data/scale_factors_1_2_right.txt
+                surface=""
+                out=""
+               
+        fi
+
+    done

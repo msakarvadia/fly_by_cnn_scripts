@@ -1,0 +1,1756 @@
+neo-0007-1-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0007-1-2-2year/CIVET/neo-0007-1-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0007-1-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8261742707626708
+Max scale factor: 0.8261742707626708
+neo-0011-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0011-2-1-1year/CIVET/neo-0011-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0011-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8334414052689416
+Max scale factor: 0.8334414052689416
+neo-0011-2-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0011-2-1-2year/CIVET/neo-0011-2-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0011-2-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8230088496124908
+Max scale factor: 0.8230088496124908
+neo-0012-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0012-2-1-1year/CIVET/neo-0012-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0012-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8647850097649636
+Max scale factor: 0.8647850097649636
+neo-0012-2-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0012-2-1-2year/CIVET/neo-0012-2-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0012-2-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8438053806258874
+Max scale factor: 0.8438053806258874
+neo-0013-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0013-1-2year/CIVET/neo-0013-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0013-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8389260640990894
+Max scale factor: 0.8389260640990894
+neo-0017-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0017-1-2year/CIVET/neo-0017-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0017-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8425669133009785
+Max scale factor: 0.8425669133009785
+neo-0019-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0019-2-1-1year/CIVET/neo-0019-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0019-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8186462840858125
+Max scale factor: 0.8186462840858125
+neo-0022-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0022-1-2year/CIVET/neo-0022-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0022-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8664722407152424
+Max scale factor: 0.8664722407152424
+neo-0027-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0027-1-2year/CIVET/neo-0027-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0027-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8521429723007875
+Max scale factor: 0.8521429723007875
+neo-0029-2-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0029-2-1-2year/CIVET/neo-0029-2-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0029-2-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8402230830638775
+Max scale factor: 0.8402230830638775
+neo-0029-3-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0029-3-1year/CIVET/neo-0029-3-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0029-3-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8552365231163558
+Max scale factor: 0.8552365231163558
+neo-0029-3-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0029-3-2year/CIVET/neo-0029-3-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0029-3-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8331248725538168
+Max scale factor: 0.8331248725538168
+neo-0034-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0034-1-1year/CIVET/neo-0034-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0034-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8253970323800054
+Max scale factor: 0.8253970323800054
+neo-0034-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0034-1-2year/CIVET/neo-0034-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0034-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8094910675737678
+Max scale factor: 0.8094910675737678
+neo-0038-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0038-1-1year/CIVET/neo-0038-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0038-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8285994863942537
+Max scale factor: 0.8285994863942537
+neo-0038-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0038-2-1year/CIVET/neo-0038-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0038-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8536689364915405
+Max scale factor: 0.8536689364915405
+neo-0042-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0042-2-1-1year/CIVET/neo-0042-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0042-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8368203889605603
+Max scale factor: 0.8368203889605603
+neo-0048-3-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0048-3-1-1year/CIVET/neo-0048-3-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0048-3-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8675008114397952
+Max scale factor: 0.8675008114397952
+neo-0048-3-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0048-3-2year/CIVET/neo-0048-3-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0048-3-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+neo-0052-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0052-2-1-1year/CIVET/neo-0052-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0052-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8249692569642559
+Max scale factor: 0.8249692569642559
+neo-0052-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0052-2-2year/CIVET/neo-0052-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0052-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8335591666150262
+Max scale factor: 0.8335591666150262
+neo-0055-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0055-1-1year/CIVET/neo-0055-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0055-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8445543880086682
+Max scale factor: 0.8445543880086682
+neo-0057-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0057-1-1-2year/CIVET/neo-0057-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0057-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8446828502611995
+Max scale factor: 0.8446828502611995
+neo-0063-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0063-1-1year/CIVET/neo-0063-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0063-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8301116670460575
+Max scale factor: 0.8301116670460575
+neo-0066-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0066-2-2year/CIVET/neo-0066-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0066-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8519090852284412
+Max scale factor: 0.8519090852284412
+neo-0069-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0069-1-1year/CIVET/neo-0069-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0069-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8516786270418524
+Max scale factor: 0.8516786270418524
+neo-0071-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0071-1-1-2year/CIVET/neo-0071-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0071-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.85587357289089
+Max scale factor: 0.85587357289089
+neo-0079-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0079-1-1year/CIVET/neo-0079-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0079-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8930437250838501
+Max scale factor: 0.8930437250838501
+neo-0081-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0081-1-1-2year/CIVET/neo-0081-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0081-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8719070556887438
+Max scale factor: 0.8719070556887438
+neo-0081-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0081-1-1year/CIVET/neo-0081-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0081-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.884309720289788
+Max scale factor: 0.884309720289788
+neo-0083-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0083-1-1year/CIVET/neo-0083-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0083-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8719305939026536
+Max scale factor: 0.8719305939026536
+neo-0084-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0084-1-1-2year/CIVET/neo-0084-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0084-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8407904975725157
+Max scale factor: 0.8407904975725157
+neo-0087-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0087-1-1-2year/CIVET/neo-0087-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0087-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8611802552978203
+Max scale factor: 0.8611802552978203
+neo-0087-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0087-2-1year/CIVET/neo-0087-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0087-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8512398842167415
+Max scale factor: 0.8512398842167415
+neo-0087-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0087-2-2year/CIVET/neo-0087-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0087-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8448459857162446
+Max scale factor: 0.8448459857162446
+neo-0089-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0089-1-1year/CIVET/neo-0089-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0089-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8312481857406137
+Max scale factor: 0.8312481857406137
+neo-0091-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0091-1-1-2year/CIVET/neo-0091-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0091-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8244238476284024
+Max scale factor: 0.8244238476284024
+neo-0091-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0091-2-1-1year/CIVET/neo-0091-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0091-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8885016454039145
+Max scale factor: 0.8885016454039145
+neo-0092-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0092-1-1-2year/CIVET/neo-0092-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0092-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8401242843153882
+Max scale factor: 0.8401242843153882
+neo-0092-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0092-1-1year/CIVET/neo-0092-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0092-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8178480161015111
+Max scale factor: 0.8178480161015111
+neo-0092-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0092-2-2year/CIVET/neo-0092-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0092-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8503673177390899
+Max scale factor: 0.8503673177390899
+neo-0092-3-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0092-3-2year/CIVET/neo-0092-3-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0092-3-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8212830642200625
+Max scale factor: 0.8212830642200625
+neo-0098-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0098-1-1-2year/CIVET/neo-0098-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0098-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8016228312970431
+Max scale factor: 0.8016228312970431
+neo-0100-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0100-1-1-2year/CIVET/neo-0100-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0100-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8612251135485796
+Max scale factor: 0.8612251135485796
+neo-0102-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0102-1-1-2year/CIVET/neo-0102-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0102-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.832007259874357
+Max scale factor: 0.832007259874357
+neo-0102-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0102-1-1year/CIVET/neo-0102-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0102-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8476099281513111
+Max scale factor: 0.8476099281513111
+neo-0105-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0105-1-1year/CIVET/neo-0105-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0105-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8398907484744919
+Max scale factor: 0.8398907484744919
+neo-0106-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0106-1-1-2year/CIVET/neo-0106-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0106-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8704930488469594
+Max scale factor: 0.8704930488469594
+neo-0106-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0106-1-1year/CIVET/neo-0106-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0106-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8661405217728538
+Max scale factor: 0.8661405217728538
+neo-0107-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0107-2-2year/CIVET/neo-0107-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0107-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8419397909052683
+Max scale factor: 0.8419397909052683
+neo-0108-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0108-1-1-2year/CIVET/neo-0108-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0108-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8219276212068604
+Max scale factor: 0.8219276212068604
+neo-0109-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0109-1-1-2year/CIVET/neo-0109-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0109-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8518081565939228
+Max scale factor: 0.8518081565939228
+neo-0109-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0109-1-1year/CIVET/neo-0109-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0109-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8647433808654412
+Max scale factor: 0.8647433808654412
+neo-0112-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0112-1-1-2year/CIVET/neo-0112-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0112-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8280919524906627
+Max scale factor: 0.8280919524906627
+neo-0113-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0113-1-1-2year/CIVET/neo-0113-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0113-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8477514322348682
+Max scale factor: 0.8477514322348682
+neo-0113-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0113-1-1year/CIVET/neo-0113-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0113-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8699733825276339
+Max scale factor: 0.8699733825276339
+neo-0113-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0113-2-1year/CIVET/neo-0113-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0113-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8521522263055354
+Max scale factor: 0.8521522263055354
+neo-0113-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0113-2-2year/CIVET/neo-0113-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0113-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8504594378425839
+Max scale factor: 0.8504594378425839
+neo-0117-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0117-1-1-2year/CIVET/neo-0117-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0117-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8307825573879729
+Max scale factor: 0.8307825573879729
+neo-0119-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0119-1-1year/CIVET/neo-0119-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0119-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8320468268638949
+Max scale factor: 0.8320468268638949
+neo-0120-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0120-1-1-2year/CIVET/neo-0120-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0120-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8258942095413696
+Max scale factor: 0.8258942095413696
+neo-0120-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0120-1-1year/CIVET/neo-0120-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0120-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8285433113566312
+Max scale factor: 0.8285433113566312
+neo-0121-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0121-1-1-2year/CIVET/neo-0121-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0121-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8436087788451861
+Max scale factor: 0.8436087788451861
+neo-0121-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0121-1-1year/CIVET/neo-0121-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0121-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8826415530329337
+Max scale factor: 0.8826415530329337
+neo-0122-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0122-1-1-2year/CIVET/neo-0122-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0122-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.80349120443438
+Max scale factor: 0.80349120443438
+neo-0125-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0125-1-1-2year/CIVET/neo-0125-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0125-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8537642917598909
+Max scale factor: 0.8537642917598909
+neo-0129-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0129-1-1-1year/CIVET/neo-0129-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0129-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8447800572490934
+Max scale factor: 0.8447800572490934
+neo-0129-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0129-2-1year/CIVET/neo-0129-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0129-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8542291136999832
+Max scale factor: 0.8542291136999832
+neo-0129-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0129-2-2year/CIVET/neo-0129-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0129-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8439278835809644
+Max scale factor: 0.8439278835809644
+neo-0130-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0130-1-1-1year/CIVET/neo-0130-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0130-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.856537426090225
+Max scale factor: 0.856537426090225
+neo-0130-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0130-1-1-2year/CIVET/neo-0130-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0130-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.859460170975715
+Max scale factor: 0.859460170975715
+neo-0130-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0130-2-1year/CIVET/neo-0130-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0130-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8484759410800622
+Max scale factor: 0.8484759410800622
+neo-0138-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0138-1-1-2year/CIVET/neo-0138-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0138-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8372945180909793
+Max scale factor: 0.8372945180909793
+neo-0138-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0138-1-1year/CIVET/neo-0138-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0138-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8372940439739271
+Max scale factor: 0.8372940439739271
+neo-0140-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0140-1-1-2year/CIVET/neo-0140-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0140-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8412229610768862
+Max scale factor: 0.8412229610768862
+neo-0141-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0141-1-1-1year/CIVET/neo-0141-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0141-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8912733118145989
+Max scale factor: 0.8912733118145989
+neo-0141-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0141-1-1-2year/CIVET/neo-0141-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0141-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8791160070770231
+Max scale factor: 0.8791160070770231
+neo-0142-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0142-1-1-1year/CIVET/neo-0142-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0142-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8336444118828026
+Max scale factor: 0.8336444118828026
+neo-0142-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0142-1-1-2year/CIVET/neo-0142-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0142-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8360880957021852
+Max scale factor: 0.8360880957021852
+neo-0143-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0143-1-1-2year/CIVET/neo-0143-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0143-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8279096118176249
+Max scale factor: 0.8279096118176249
+neo-0145-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0145-1-1-2year/CIVET/neo-0145-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0145-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8493761628956746
+Max scale factor: 0.8493761628956746
+neo-0145-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0145-2-2year/CIVET/neo-0145-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0145-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8317175304054658
+Max scale factor: 0.8317175304054658
+neo-0146-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0146-1-1-1year/CIVET/neo-0146-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0146-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8174074493282032
+Max scale factor: 0.8174074493282032
+neo-0146-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0146-1-1-2year/CIVET/neo-0146-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0146-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8459321223682094
+Max scale factor: 0.8459321223682094
+neo-0147-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0147-2-1-1year/CIVET/neo-0147-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0147-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8268849360627604
+Max scale factor: 0.8268849360627604
+neo-0147-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0147-2-2year/CIVET/neo-0147-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0147-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8464339221915007
+Max scale factor: 0.8464339221915007
+neo-0148-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0148-1-1-2year/CIVET/neo-0148-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0148-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8303866318451216
+Max scale factor: 0.8303866318451216
+neo-0151-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0151-1-1-2year/CIVET/neo-0151-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0151-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8354076819118829
+Max scale factor: 0.8354076819118829
+neo-0152-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0152-1-1-2year/CIVET/neo-0152-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0152-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8374376781263366
+Max scale factor: 0.8374376781263366
+neo-0154-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0154-1-1-1year/CIVET/neo-0154-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0154-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8679861571177072
+Max scale factor: 0.8679861571177072
+neo-0154-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0154-1-1-2year/CIVET/neo-0154-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0154-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8595128674030167
+Max scale factor: 0.8595128674030167
+neo-0154-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0154-2-1year/CIVET/neo-0154-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0154-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.857626050352099
+Max scale factor: 0.857626050352099
+neo-0155-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0155-1-1-1year/CIVET/neo-0155-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0155-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+neo-0156-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0156-1-1-1year/CIVET/neo-0156-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0156-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8379585165455676
+Max scale factor: 0.8379585165455676
+neo-0156-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0156-1-1-2year/CIVET/neo-0156-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0156-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.832454911378651
+Max scale factor: 0.832454911378651
+neo-0159-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0159-1-1-1year/CIVET/neo-0159-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0159-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8726746687652788
+Max scale factor: 0.8726746687652788
+neo-0159-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0159-1-1-2year/CIVET/neo-0159-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0159-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8534020738305407
+Max scale factor: 0.8534020738305407
+neo-0160-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0160-1-1-2year/CIVET/neo-0160-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0160-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8367841393470896
+Max scale factor: 0.8367841393470896
+neo-0160-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0160-1-1year/CIVET/neo-0160-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0160-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8349650998578685
+Max scale factor: 0.8349650998578685
+neo-0160-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0160-2-1year/CIVET/neo-0160-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0160-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8328381704584186
+Max scale factor: 0.8328381704584186
+neo-0160-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0160-2-2year/CIVET/neo-0160-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0160-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8319684187013304
+Max scale factor: 0.8319684187013304
+neo-0162-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0162-1-1-1year/CIVET/neo-0162-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0162-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.87247906498429
+Max scale factor: 0.87247906498429
+neo-0164-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0164-1-1-2year/CIVET/neo-0164-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0164-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8479276922976878
+Max scale factor: 0.8479276922976878
+neo-0166-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0166-1-1-1year/CIVET/neo-0166-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0166-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8549756226811727
+Max scale factor: 0.8549756226811727
+neo-0167-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0167-1-1-1year/CIVET/neo-0167-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0167-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8236575211273663
+Max scale factor: 0.8236575211273663
+neo-0174-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0174-1-1-1year/CIVET/neo-0174-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0174-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.839601263481777
+Max scale factor: 0.839601263481777
+neo-0174-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0174-1-1-2year/CIVET/neo-0174-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0174-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.856618061479585
+Max scale factor: 0.856618061479585
+neo-0176-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0176-1-1-1year/CIVET/neo-0176-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0176-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8536103719347491
+Max scale factor: 0.8536103719347491
+neo-0177-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0177-1-1-1year/CIVET/neo-0177-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0177-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8382171886489471
+Max scale factor: 0.8382171886489471
+neo-0177-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0177-1-1-2year/CIVET/neo-0177-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0177-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8501561442378105
+Max scale factor: 0.8501561442378105
+neo-0180-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0180-1-1-1year/CIVET/neo-0180-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0180-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8405364191873069
+Max scale factor: 0.8405364191873069
+neo-0180-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0180-1-1-2year/CIVET/neo-0180-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0180-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8548361946770493
+Max scale factor: 0.8548361946770493
+neo-0183-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0183-1-1-1year/CIVET/neo-0183-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0183-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8539834866513808
+Max scale factor: 0.8539834866513808
+neo-0183-2-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0183-2-1-2year/CIVET/neo-0183-2-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0183-2-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8640045699632594
+Max scale factor: 0.8640045699632594
+neo-0183-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0183-2-1year/CIVET/neo-0183-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0183-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8552627302617019
+Max scale factor: 0.8552627302617019
+neo-0184-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0184-2-1year/CIVET/neo-0184-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0184-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8417130043333009
+Max scale factor: 0.8417130043333009
+neo-0188-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0188-1-1-1year/CIVET/neo-0188-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0188-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8327144359151344
+Max scale factor: 0.8327144359151344
+neo-0188-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0188-1-1-2year/CIVET/neo-0188-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0188-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8331885795345033
+Max scale factor: 0.8331885795345033
+neo-0193-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0193-1-1-1year/CIVET/neo-0193-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0193-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8242289504338425
+Max scale factor: 0.8242289504338425
+neo-0193-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0193-1-1-2year/CIVET/neo-0193-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0193-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8425340363515184
+Max scale factor: 0.8425340363515184
+neo-0195-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0195-1-1-1year/CIVET/neo-0195-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0195-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8499842833409438
+Max scale factor: 0.8499842833409438
+neo-0195-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0195-1-1-2year/CIVET/neo-0195-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0195-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8500509936748121
+Max scale factor: 0.8500509936748121
+neo-0195-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0195-2-1year/CIVET/neo-0195-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0195-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8366872487228407
+Max scale factor: 0.8366872487228407
+neo-0196-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0196-1-1-1year/CIVET/neo-0196-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0196-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8325814519866895
+Max scale factor: 0.8325814519866895
+neo-0196-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0196-1-2year/CIVET/neo-0196-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0196-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8305860451530663
+Max scale factor: 0.8305860451530663
+neo-0197-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0197-1-2year/CIVET/neo-0197-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0197-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8382651577495447
+Max scale factor: 0.8382651577495447
+neo-0199-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0199-1-1-1year/CIVET/neo-0199-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0199-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8216894454721013
+Max scale factor: 0.8216894454721013
+neo-0199-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0199-1-2year/CIVET/neo-0199-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0199-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8339695505442762
+Max scale factor: 0.8339695505442762
+neo-0201-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0201-1-1-1year/CIVET/neo-0201-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0201-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.7977467946100232
+Max scale factor: 0.7977467946100232
+neo-0203-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0203-1-1-1year/CIVET/neo-0203-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0203-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8448814851899145
+Max scale factor: 0.8448814851899145
+neo-0203-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0203-1-2year/CIVET/neo-0203-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0203-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8506096920099724
+Max scale factor: 0.8506096920099724
+neo-0205-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0205-1-1-1year/CIVET/neo-0205-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0205-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8463155043855631
+Max scale factor: 0.8463155043855631
+neo-0205-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0205-1-1-2year/CIVET/neo-0205-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0205-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8323005047750457
+Max scale factor: 0.8323005047750457
+neo-0205-1-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0205-1-2-1year/CIVET/neo-0205-1-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0205-1-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8298636826405285
+Max scale factor: 0.8298636826405285
+neo-0205-1-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0205-1-2-2year/CIVET/neo-0205-1-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0205-1-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8516849157246096
+Max scale factor: 0.8516849157246096
+neo-0205-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0205-2-1year/CIVET/neo-0205-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0205-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8459534047523314
+Max scale factor: 0.8459534047523314
+neo-0205-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0205-2-2year/CIVET/neo-0205-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0205-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8439055245706202
+Max scale factor: 0.8439055245706202
+neo-0206-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0206-1-1-1year/CIVET/neo-0206-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0206-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8497804394115531
+Max scale factor: 0.8497804394115531
+neo-0206-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0206-1-1-2year/CIVET/neo-0206-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0206-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8542936431269728
+Max scale factor: 0.8542936431269728
+neo-0206-1-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0206-1-2-1year/CIVET/neo-0206-1-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0206-1-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.873253806877447
+Max scale factor: 0.873253806877447
+neo-0206-1-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0206-1-2-2year/CIVET/neo-0206-1-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0206-1-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8449483481575915
+Max scale factor: 0.8449483481575915
+neo-0207-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0207-1-1-1year/CIVET/neo-0207-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0207-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8427135628916734
+Max scale factor: 0.8427135628916734
+neo-0209-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0209-1-1-1year/CIVET/neo-0209-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0209-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.851760356533302
+Max scale factor: 0.851760356533302
+neo-0209-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0209-1-2year/CIVET/neo-0209-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0209-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8521807482142613
+Max scale factor: 0.8521807482142613
+neo-0209-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0209-2-1year/CIVET/neo-0209-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0209-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.81874533543512
+Max scale factor: 0.81874533543512
+neo-0209-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0209-2-2year/CIVET/neo-0209-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0209-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8191007188027243
+Max scale factor: 0.8191007188027243
+neo-0210-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0210-1-1-1year/CIVET/neo-0210-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0210-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8400989620760261
+Max scale factor: 0.8400989620760261
+neo-0212-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0212-1-1-1year/CIVET/neo-0212-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0212-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8589375303845476
+Max scale factor: 0.8589375303845476
+neo-0212-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0212-1-2year/CIVET/neo-0212-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0212-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8437155436094828
+Max scale factor: 0.8437155436094828
+neo-0213-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0213-1-1-1year/CIVET/neo-0213-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0213-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8956947475944639
+Max scale factor: 0.8956947475944639
+neo-0216-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0216-1-1-1year/CIVET/neo-0216-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0216-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8227307812124487
+Max scale factor: 0.8227307812124487
+neo-0217-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0217-1-2year/CIVET/neo-0217-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0217-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8465394640288499
+Max scale factor: 0.8465394640288499
+neo-0221-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0221-1-1-1year/CIVET/neo-0221-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0221-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8505346280536399
+Max scale factor: 0.8505346280536399
+neo-0221-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0221-1-2year/CIVET/neo-0221-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0221-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8399603774273632
+Max scale factor: 0.8399603774273632
+neo-0221-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0221-2-1year/CIVET/neo-0221-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0221-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8188791428954229
+Max scale factor: 0.8188791428954229
+neo-0221-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0221-2-2year/CIVET/neo-0221-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0221-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8311331387104485
+Max scale factor: 0.8311331387104485
+neo-0227-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0227-1-1-1year/CIVET/neo-0227-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0227-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8514873286743686
+Max scale factor: 0.8514873286743686
+neo-0227-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0227-1-2year/CIVET/neo-0227-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0227-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.851603271649481
+Max scale factor: 0.851603271649481
+neo-0228-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0228-1-1-1year/CIVET/neo-0228-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0228-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8512702485020652
+Max scale factor: 0.8512702485020652
+neo-0231-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0231-1-1year/CIVET/neo-0231-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0231-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8474697949918847
+Max scale factor: 0.8474697949918847
+neo-0232-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0232-1-1-1year/CIVET/neo-0232-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0232-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8271978701198496
+Max scale factor: 0.8271978701198496
+neo-0232-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0232-1-2year/CIVET/neo-0232-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0232-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8202675876077322
+Max scale factor: 0.8202675876077322
+neo-0232-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0232-2-1year/CIVET/neo-0232-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0232-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8472653489806244
+Max scale factor: 0.8472653489806244
+neo-0232-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0232-2-2year/CIVET/neo-0232-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0232-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8300526129149576
+Max scale factor: 0.8300526129149576
+neo-0233-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0233-1-1year/CIVET/neo-0233-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0233-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8296737059721762
+Max scale factor: 0.8296737059721762
+neo-0233-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0233-1-2year/CIVET/neo-0233-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0233-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8305727478515971
+Max scale factor: 0.8305727478515971
+neo-0233-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0233-2-1year/CIVET/neo-0233-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0233-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8491296727455225
+Max scale factor: 0.8491296727455225
+neo-0233-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0233-2-2year/CIVET/neo-0233-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0233-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8283347966636172
+Max scale factor: 0.8283347966636172
+neo-0234-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0234-1-1-1year/CIVET/neo-0234-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0234-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8511683842898183
+Max scale factor: 0.8511683842898183
+neo-0235-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0235-1-1-1year/CIVET/neo-0235-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0235-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8551462731834267
+Max scale factor: 0.8551462731834267
+neo-0237-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0237-1-1year/CIVET/neo-0237-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0237-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8396489056818528
+Max scale factor: 0.8396489056818528
+neo-0237-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0237-1-2year/CIVET/neo-0237-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0237-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8528730924257132
+Max scale factor: 0.8528730924257132
+neo-0238-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0238-1-1-1year/CIVET/neo-0238-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0238-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8457188838583063
+Max scale factor: 0.8457188838583063
+neo-0239-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0239-1-1-1year/CIVET/neo-0239-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0239-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8517706556511211
+Max scale factor: 0.8517706556511211
+neo-0239-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0239-1-2year/CIVET/neo-0239-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0239-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8295207643702713
+Max scale factor: 0.8295207643702713
+neo-0240-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0240-1-1-1year/CIVET/neo-0240-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0240-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8217835169622425
+Max scale factor: 0.8217835169622425
+neo-0240-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0240-1-2year/CIVET/neo-0240-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0240-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8187616037610241
+Max scale factor: 0.8187616037610241
+neo-0241-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0241-1-1-1year/CIVET/neo-0241-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0241-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.854675029076007
+Max scale factor: 0.854675029076007
+neo-0241-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0241-1-2year/CIVET/neo-0241-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0241-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8363092341803827
+Max scale factor: 0.8363092341803827
+neo-0243-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0243-1-1year/CIVET/neo-0243-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0243-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8327856983402654
+Max scale factor: 0.8327856983402654
+neo-0243-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0243-1-2year/CIVET/neo-0243-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0243-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8230771467884808
+Max scale factor: 0.8230771467884808
+neo-0244-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0244-1-1-1year/CIVET/neo-0244-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0244-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8534275921429552
+Max scale factor: 0.8534275921429552
+neo-0244-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0244-1-2year/CIVET/neo-0244-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0244-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8578814113485187
+Max scale factor: 0.8578814113485187
+neo-0246-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0246-1-1year/CIVET/neo-0246-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0246-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8564515801886109
+Max scale factor: 0.8564515801886109
+neo-0247-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0247-1-1year/CIVET/neo-0247-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0247-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8405987671870583
+Max scale factor: 0.8405987671870583
+neo-0247-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0247-2-1year/CIVET/neo-0247-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0247-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8258985057443746
+Max scale factor: 0.8258985057443746
+neo-0247-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0247-2-2year/CIVET/neo-0247-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0247-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8509900340834528
+Max scale factor: 0.8509900340834528
+neo-0249-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0249-1-1year/CIVET/neo-0249-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0249-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8433452996026568
+Max scale factor: 0.8433452996026568
+neo-0249-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0249-1-2year/CIVET/neo-0249-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0249-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8314862670071442
+Max scale factor: 0.8314862670071442
+neo-0251-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0251-1-1year/CIVET/neo-0251-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0251-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8623498219201933
+Max scale factor: 0.8623498219201933
+neo-0251-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0251-1-2year/CIVET/neo-0251-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0251-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8638076168778644
+Max scale factor: 0.8638076168778644
+neo-0251-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0251-2-1year/CIVET/neo-0251-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0251-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8453989098137739
+Max scale factor: 0.8453989098137739
+neo-0251-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0251-2-2year/CIVET/neo-0251-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0251-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8631594172697707
+Max scale factor: 0.8631594172697707
+neo-0252-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0252-1-1year/CIVET/neo-0252-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0252-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8626540359871473
+Max scale factor: 0.8626540359871473
+neo-0253-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0253-1-1-1year/CIVET/neo-0253-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0253-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8621729258645084
+Max scale factor: 0.8621729258645084
+neo-0253-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0253-1-2year/CIVET/neo-0253-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0253-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.871183403783383
+Max scale factor: 0.871183403783383
+neo-0255-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0255-1-1year/CIVET/neo-0255-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0255-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8758488315571167
+Max scale factor: 0.8758488315571167
+neo-0256-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0256-1-1year/CIVET/neo-0256-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0256-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8751753724951805
+Max scale factor: 0.8751753724951805
+neo-0256-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0256-1-2year/CIVET/neo-0256-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0256-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.839795014758229
+Max scale factor: 0.839795014758229
+neo-0260-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0260-1-1year/CIVET/neo-0260-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0260-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8215630998401214
+Max scale factor: 0.8215630998401214
+neo-0260-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0260-1-2year/CIVET/neo-0260-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0260-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8359454944297997
+Max scale factor: 0.8359454944297997
+neo-0261-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0261-1-1year/CIVET/neo-0261-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0261-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8392897201468404
+Max scale factor: 0.8392897201468404
+neo-0261-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0261-1-2year/CIVET/neo-0261-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0261-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8326030037233292
+Max scale factor: 0.8326030037233292
+neo-0264-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0264-1-1year/CIVET/neo-0264-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0264-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8558120201169074
+Max scale factor: 0.8558120201169074
+neo-0264-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0264-1-2year/CIVET/neo-0264-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0264-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8638485220496454
+Max scale factor: 0.8638485220496454
+neo-0266-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0266-1-1year/CIVET/neo-0266-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0266-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8548833391273771
+Max scale factor: 0.8548833391273771
+neo-0266-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0266-1-2year/CIVET/neo-0266-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0266-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8339420977079618
+Max scale factor: 0.8339420977079618
+neo-0269-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0269-1-1year/CIVET/neo-0269-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0269-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.856540553157973
+Max scale factor: 0.856540553157973
+neo-0269-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0269-1-2year/CIVET/neo-0269-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0269-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8478354700638814
+Max scale factor: 0.8478354700638814
+neo-0270-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0270-1-1year/CIVET/neo-0270-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0270-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.83322197444915
+Max scale factor: 0.83322197444915
+neo-0271-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0271-1-1-1year/CIVET/neo-0271-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0271-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8407011158923601
+Max scale factor: 0.8407011158923601
+neo-0272-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0272-1-1year/CIVET/neo-0272-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0272-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8543757213629372
+Max scale factor: 0.8543757213629372
+neo-0272-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0272-1-2year/CIVET/neo-0272-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0272-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8407193307761499
+Max scale factor: 0.8407193307761499
+neo-0273-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0273-1-1year/CIVET/neo-0273-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0273-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8613685211297996
+Max scale factor: 0.8613685211297996
+neo-0273-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0273-1-2year/CIVET/neo-0273-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0273-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8557682287501829
+Max scale factor: 0.8557682287501829
+neo-0275-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0275-1-1year/CIVET/neo-0275-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0275-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8302890957333184
+Max scale factor: 0.8302890957333184
+neo-0276-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0276-1-2year/CIVET/neo-0276-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0276-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8510417707590319
+Max scale factor: 0.8510417707590319
+neo-0277-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0277-1-1-1year/CIVET/neo-0277-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0277-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8512501888266322
+Max scale factor: 0.8512501888266322
+neo-0277-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0277-1-1-2year/CIVET/neo-0277-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0277-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8282515404119792
+Max scale factor: 0.8282515404119792
+neo-0277-1-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0277-1-2-1year/CIVET/neo-0277-1-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0277-1-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8273010432962198
+Max scale factor: 0.8273010432962198
+neo-0279-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0279-1-1year/CIVET/neo-0279-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0279-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8498638265114994
+Max scale factor: 0.8498638265114994
+neo-0279-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0279-1-2year/CIVET/neo-0279-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0279-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8434062351564994
+Max scale factor: 0.8434062351564994
+neo-0280-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0280-1-1year/CIVET/neo-0280-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0280-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8456007938959696
+Max scale factor: 0.8456007938959696
+neo-0280-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0280-1-2year/CIVET/neo-0280-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0280-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8516206623893092
+Max scale factor: 0.8516206623893092
+neo-0282-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0282-1-1year/CIVET/neo-0282-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0282-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8269081077862354
+Max scale factor: 0.8269081077862354
+neo-0285-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0285-1-1year/CIVET/neo-0285-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0285-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8264634475198183
+Max scale factor: 0.8264634475198183
+neo-0285-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0285-1-2year/CIVET/neo-0285-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0285-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8319562389065488
+Max scale factor: 0.8319562389065488
+neo-0286-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0286-1-2year/CIVET/neo-0286-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0286-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8395641351674978
+Max scale factor: 0.8395641351674978
+neo-0287-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0287-1-1year/CIVET/neo-0287-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0287-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8836000636634284
+Max scale factor: 0.8836000636634284
+neo-0288-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0288-1-2year/CIVET/neo-0288-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0288-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8424408386271885
+Max scale factor: 0.8424408386271885
+neo-0292-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0292-1-1year/CIVET/neo-0292-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0292-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8499770928739054
+Max scale factor: 0.8499770928739054
+neo-0293-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0293-1-1year/CIVET/neo-0293-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0293-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8657894474246232
+Max scale factor: 0.8657894474246232
+neo-0296-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0296-1-1year/CIVET/neo-0296-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0296-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.85447774251237
+Max scale factor: 0.85447774251237
+neo-0298-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0298-1-1year/CIVET/neo-0298-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0298-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8313973868711467
+Max scale factor: 0.8313973868711467
+neo-0298-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0298-1-2year/CIVET/neo-0298-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0298-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8505540398744784
+Max scale factor: 0.8505540398744784
+neo-0301-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0301-1-1year/CIVET/neo-0301-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0301-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8344521702299875
+Max scale factor: 0.8344521702299875
+neo-0301-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0301-1-2year/CIVET/neo-0301-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0301-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.846935897954388
+Max scale factor: 0.846935897954388
+neo-0302-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0302-1-2year/CIVET/neo-0302-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0302-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.837405607101941
+Max scale factor: 0.837405607101941
+neo-0303-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0303-1-1year/CIVET/neo-0303-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0303-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8422427027677093
+Max scale factor: 0.8422427027677093
+neo-0304-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0304-1-1year/CIVET/neo-0304-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0304-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.815192363115467
+Max scale factor: 0.815192363115467
+neo-0304-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0304-1-2year/CIVET/neo-0304-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0304-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8029896171592213
+Max scale factor: 0.8029896171592213
+neo-0304-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0304-2-1year/CIVET/neo-0304-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0304-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8443382009482524
+Max scale factor: 0.8443382009482524
+neo-0304-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0304-2-2year/CIVET/neo-0304-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0304-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8320386880200792
+Max scale factor: 0.8320386880200792
+neo-0305-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0305-1-1year/CIVET/neo-0305-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0305-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8441215243440227
+Max scale factor: 0.8441215243440227
+neo-0306-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0306-1-1year/CIVET/neo-0306-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0306-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8527239137414346
+Max scale factor: 0.8527239137414346
+neo-0306-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0306-1-2year/CIVET/neo-0306-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0306-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8492520558394422
+Max scale factor: 0.8492520558394422
+neo-0311-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0311-1-1year/CIVET/neo-0311-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0311-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8477615244763681
+Max scale factor: 0.8477615244763681
+neo-0311-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0311-1-2year/CIVET/neo-0311-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0311-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8425511842506074
+Max scale factor: 0.8425511842506074
+neo-0316-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0316-1-2year/CIVET/neo-0316-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0316-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8500827565843337
+Max scale factor: 0.8500827565843337
+neo-0318-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0318-1-1year/CIVET/neo-0318-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0318-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8307197259697507
+Max scale factor: 0.8307197259697507
+neo-0318-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0318-1-2year/CIVET/neo-0318-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0318-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8196826367864959
+Max scale factor: 0.8196826367864959
+neo-0319-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0319-1-1year/CIVET/neo-0319-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0319-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.812009723165024
+Max scale factor: 0.812009723165024
+neo-0319-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0319-1-2year/CIVET/neo-0319-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0319-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8143750452352873
+Max scale factor: 0.8143750452352873
+neo-0321-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0321-1-1year/CIVET/neo-0321-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0321-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8295836905403088
+Max scale factor: 0.8295836905403088
+neo-0321-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0321-1-2year/CIVET/neo-0321-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0321-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8311591196624378
+Max scale factor: 0.8311591196624378
+neo-0329-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0329-1-1year/CIVET/neo-0329-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0329-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+neo-0329-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0329-1-2year/CIVET/neo-0329-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0329-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8539552890397264
+Max scale factor: 0.8539552890397264
+neo-0330-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0330-1-1year/CIVET/neo-0330-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0330-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8658911491128135
+Max scale factor: 0.8658911491128135
+neo-0332-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0332-1-1year/CIVET/neo-0332-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0332-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8244929896425103
+Max scale factor: 0.8244929896425103
+neo-0332-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0332-1-2year/CIVET/neo-0332-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0332-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8290230427081614
+Max scale factor: 0.8290230427081614
+neo-0335-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0335-1-1year/CIVET/neo-0335-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0335-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8548527601439156
+Max scale factor: 0.8548527601439156
+neo-0336-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0336-1-1year/CIVET/neo-0336-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0336-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8576626883106323
+Max scale factor: 0.8576626883106323
+neo-0336-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0336-1-2year/CIVET/neo-0336-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0336-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8611510658567635
+Max scale factor: 0.8611510658567635
+neo-0339-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0339-1-1year/CIVET/neo-0339-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0339-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+neo-0339-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0339-1-2year/CIVET/neo-0339-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0339-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8366021727732522
+Max scale factor: 0.8366021727732522
+neo-0339-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0339-2-2year/CIVET/neo-0339-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0339-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.843349685348787
+Max scale factor: 0.843349685348787
+neo-0340-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0340-1-1year/CIVET/neo-0340-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0340-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.826891819034561
+Max scale factor: 0.826891819034561
+neo-0340-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0340-1-2year/CIVET/neo-0340-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0340-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8180734481331059
+Max scale factor: 0.8180734481331059
+neo-0343-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0343-1-1year/CIVET/neo-0343-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0343-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8480940088732541
+Max scale factor: 0.8480940088732541
+neo-0343-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0343-1-2year/CIVET/neo-0343-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0343-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8375229623172671
+Max scale factor: 0.8375229623172671
+neo-0343-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0343-2-1year/CIVET/neo-0343-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0343-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8393177562891946
+Max scale factor: 0.8393177562891946
+neo-0343-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0343-2-2year/CIVET/neo-0343-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0343-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8475658324948354
+Max scale factor: 0.8475658324948354
+neo-0344-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0344-1-1year/CIVET/neo-0344-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0344-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8379380173043067
+Max scale factor: 0.8379380173043067
+neo-0344-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0344-1-2year/CIVET/neo-0344-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0344-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8307105328300078
+Max scale factor: 0.8307105328300078
+neo-0346-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0346-1-1year/CIVET/neo-0346-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0346-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8449884782113797
+Max scale factor: 0.8449884782113797
+neo-0346-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0346-1-2year/CIVET/neo-0346-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0346-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.847201695588651
+Max scale factor: 0.847201695588651
+neo-0346-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0346-2-2year/CIVET/neo-0346-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0346-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8531625780932377
+Max scale factor: 0.8531625780932377
+neo-0348-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0348-1-1year/CIVET/neo-0348-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0348-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8403350101810307
+Max scale factor: 0.8403350101810307
+neo-0348-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0348-1-2year/CIVET/neo-0348-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0348-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8488820811726494
+Max scale factor: 0.8488820811726494
+neo-0350-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0350-1-1year/CIVET/neo-0350-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0350-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8237790087973065
+Max scale factor: 0.8237790087973065
+neo-0350-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0350-1-2year/CIVET/neo-0350-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0350-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8253795399674508
+Max scale factor: 0.8253795399674508
+neo-0353-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0353-1-1year/CIVET/neo-0353-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0353-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8767324192191781
+Max scale factor: 0.8767324192191781
+neo-0353-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0353-1-2year/CIVET/neo-0353-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0353-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8720326191907578
+Max scale factor: 0.8720326191907578
+neo-0354-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0354-1-1year/CIVET/neo-0354-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0354-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8428519067035144
+Max scale factor: 0.8428519067035144
+neo-0355-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0355-1-1year/CIVET/neo-0355-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0355-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8396815038351969
+Max scale factor: 0.8396815038351969
+neo-0355-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0355-1-2year/CIVET/neo-0355-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0355-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8214321983575263
+Max scale factor: 0.8214321983575263
+neo-0356-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0356-1-2year/CIVET/neo-0356-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0356-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8437955456091469
+Max scale factor: 0.8437955456091469
+neo-0357-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0357-1-1year/CIVET/neo-0357-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0357-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8237131858024085
+Max scale factor: 0.8237131858024085
+neo-0357-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0357-1-2year/CIVET/neo-0357-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0357-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8242454177118579
+Max scale factor: 0.8242454177118579
+neo-0358-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0358-1-1year/CIVET/neo-0358-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0358-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8936455420500774
+Max scale factor: 0.8936455420500774
+neo-0358-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0358-1-2year/CIVET/neo-0358-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0358-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8718950391251287
+Max scale factor: 0.8718950391251287
+neo-0359-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0359-1-1year/CIVET/neo-0359-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0359-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8258068833294222
+Max scale factor: 0.8258068833294222
+neo-0359-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0359-1-2year/CIVET/neo-0359-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0359-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8251058577640592
+Max scale factor: 0.8251058577640592
+neo-0361-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0361-1-1year/CIVET/neo-0361-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0361-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.832764288141166
+Max scale factor: 0.832764288141166
+neo-0362-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0362-1-2year/CIVET/neo-0362-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0362-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8357682762743969
+Max scale factor: 0.8357682762743969
+neo-0363-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0363-1-1year/CIVET/neo-0363-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0363-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8374050280940653
+Max scale factor: 0.8374050280940653
+neo-0364-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0364-1-1year/CIVET/neo-0364-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0364-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8630259915524688
+Max scale factor: 0.8630259915524688
+neo-0365-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0365-1-1year/CIVET/neo-0365-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0365-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8089340403244226
+Max scale factor: 0.8089340403244226
+neo-0366-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0366-1-1year/CIVET/neo-0366-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0366-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+neo-0367-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0367-1-1year/CIVET/neo-0367-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0367-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8406760703595504
+Max scale factor: 0.8406760703595504
+neo-0367-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0367-2-1year/CIVET/neo-0367-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0367-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.799068232563801
+Max scale factor: 0.799068232563801
+neo-0367-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0367-2-2year/CIVET/neo-0367-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0367-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8357375375184062
+Max scale factor: 0.8357375375184062
+neo-0367-3-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0367-3-2year/CIVET/neo-0367-3-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0367-3-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8343154842103607
+Max scale factor: 0.8343154842103607
+neo-0368-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0368-1-1year/CIVET/neo-0368-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0368-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.7971917611384308
+Max scale factor: 0.7971917611384308
+neo-0374-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0374-1-1year/CIVET/neo-0374-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0374-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8192546278853186
+Max scale factor: 0.8192546278853186
+neo-0374-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0374-1-2year/CIVET/neo-0374-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0374-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8233067248107768
+Max scale factor: 0.8233067248107768
+neo-0377-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0377-1-1year/CIVET/neo-0377-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0377-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.865755770800737
+Max scale factor: 0.865755770800737
+neo-0377-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0377-1-2year/CIVET/neo-0377-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0377-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8565797254400134
+Max scale factor: 0.8565797254400134
+neo-0378-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0378-1-1year/CIVET/neo-0378-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0378-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8459933067853604
+Max scale factor: 0.8459933067853604
+neo-0379-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0379-1-1year/CIVET/neo-0379-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0379-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8097626999329948
+Max scale factor: 0.8097626999329948
+neo-0380-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0380-1-1year/CIVET/neo-0380-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0380-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8228335105634129
+Max scale factor: 0.8228335105634129
+neo-0380-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0380-1-2year/CIVET/neo-0380-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0380-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8301740447293775
+Max scale factor: 0.8301740447293775
+neo-0381-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0381-1-1year/CIVET/neo-0381-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0381-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8235667629727627
+Max scale factor: 0.8235667629727627
+neo-0382-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0382-1-1year/CIVET/neo-0382-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0382-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8498149675094832
+Max scale factor: 0.8498149675094832
+neo-0382-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0382-1-2year/CIVET/neo-0382-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0382-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8408752112685874
+Max scale factor: 0.8408752112685874
+neo-0383-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0383-1-1year/CIVET/neo-0383-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0383-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8317660042116595
+Max scale factor: 0.8317660042116595
+neo-0383-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0383-1-2year/CIVET/neo-0383-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0383-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8343556418980963
+Max scale factor: 0.8343556418980963
+neo-0385-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0385-1-1year/CIVET/neo-0385-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0385-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8571827923476624
+Max scale factor: 0.8571827923476624
+neo-0385-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0385-1-2year/CIVET/neo-0385-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0385-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8356056083998044
+Max scale factor: 0.8356056083998044
+neo-0386-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0386-1-2year/CIVET/neo-0386-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0386-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8241153710599166
+Max scale factor: 0.8241153710599166
+neo-0387-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0387-1-1year/CIVET/neo-0387-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0387-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8552368092777122
+Max scale factor: 0.8552368092777122
+neo-0388-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0388-1-1year/CIVET/neo-0388-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0388-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8139845981829834
+Max scale factor: 0.8139845981829834
+neo-0393-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0393-1-1year/CIVET/neo-0393-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0393-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8612420773090579
+Max scale factor: 0.8612420773090579
+neo-0393-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0393-2-1year/CIVET/neo-0393-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0393-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8410445491897043
+Max scale factor: 0.8410445491897043
+neo-0394-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0394-1-1year/CIVET/neo-0394-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0394-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8526547483812505
+Max scale factor: 0.8526547483812505
+neo-0395-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0395-1-1year/CIVET/neo-0395-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0395-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8359927256608598
+Max scale factor: 0.8359927256608598
+neo-0397-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0397-1-1year/CIVET/neo-0397-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0397-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.884602008906314
+Max scale factor: 0.884602008906314
+neo-0398-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0398-1-1year/CIVET/neo-0398-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0398-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8445310340181349
+Max scale factor: 0.8445310340181349
+neo-0398-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0398-1-2year/CIVET/neo-0398-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0398-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8448572972043144
+Max scale factor: 0.8448572972043144
+neo-0399-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0399-1-1year/CIVET/neo-0399-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0399-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8110579017840137
+Max scale factor: 0.8110579017840137
+neo-0399-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0399-1-2year/CIVET/neo-0399-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0399-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8037264449483145
+Max scale factor: 0.8037264449483145
+neo-0400-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0400-1-2year/CIVET/neo-0400-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0400-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8682385496858515
+Max scale factor: 0.8682385496858515
+neo-0403-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0403-1-1year/CIVET/neo-0403-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0403-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8376964707725368
+Max scale factor: 0.8376964707725368
+neo-0404-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0404-1-2year/CIVET/neo-0404-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0404-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8341879442396958
+Max scale factor: 0.8341879442396958
+neo-0408-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0408-1-1year/CIVET/neo-0408-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0408-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.858131363381919
+Max scale factor: 0.858131363381919
+neo-0409-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0409-1-1year/CIVET/neo-0409-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0409-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8414349803781814
+Max scale factor: 0.8414349803781814
+neo-0409-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0409-1-2year/CIVET/neo-0409-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0409-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8417930956090428
+Max scale factor: 0.8417930956090428
+neo-0411-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0411-1-1year/CIVET/neo-0411-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0411-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8610019169079746
+Max scale factor: 0.8610019169079746
+neo-0412-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0412-1-2year/CIVET/neo-0412-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0412-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8398206772614496
+Max scale factor: 0.8398206772614496
+neo-0413-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0413-1-1year/CIVET/neo-0413-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0413-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8424087790273214
+Max scale factor: 0.8424087790273214
+neo-0413-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0413-1-2year/CIVET/neo-0413-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0413-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8408354615086859
+Max scale factor: 0.8408354615086859
+neo-0414-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0414-1-1year/CIVET/neo-0414-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0414-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8592686557023642
+Max scale factor: 0.8592686557023642
+neo-0414-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0414-1-2year/CIVET/neo-0414-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0414-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8588682374437218
+Max scale factor: 0.8588682374437218
+neo-0415-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0415-1-1year/CIVET/neo-0415-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0415-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8537008624062608
+Max scale factor: 0.8537008624062608
+neo-0415-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0415-1-2year/CIVET/neo-0415-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0415-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8372806424256598
+Max scale factor: 0.8372806424256598
+neo-0416-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0416-1-1year/CIVET/neo-0416-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0416-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8578309350064
+Max scale factor: 0.8578309350064
+neo-0416-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0416-1-2year/CIVET/neo-0416-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0416-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.854160644425442
+Max scale factor: 0.854160644425442
+neo-0421-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0421-1-1year/CIVET/neo-0421-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0421-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8241611909571243
+Max scale factor: 0.8241611909571243
+neo-0421-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0421-1-2year/CIVET/neo-0421-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0421-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8090541313444671
+Max scale factor: 0.8090541313444671
+neo-0423-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0423-1-1year/CIVET/neo-0423-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0423-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8476454951343508
+Max scale factor: 0.8476454951343508
+neo-0426-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0426-1-1year/CIVET/neo-0426-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0426-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8328529029890956
+Max scale factor: 0.8328529029890956
+neo-0426-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0426-1-2year/CIVET/neo-0426-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0426-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8398498925455143
+Max scale factor: 0.8398498925455143
+neo-0429-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0429-1-2year/CIVET/neo-0429-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0429-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8365707627935387
+Max scale factor: 0.8365707627935387
+neo-0432-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0432-1-1year/CIVET/neo-0432-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0432-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8410992811369986
+Max scale factor: 0.8410992811369986
+neo-0433-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0433-1-1year/CIVET/neo-0433-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0433-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8661442972202538
+Max scale factor: 0.8661442972202538
+neo-0434-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0434-1-1year/CIVET/neo-0434-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0434-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8327079328314363
+Max scale factor: 0.8327079328314363
+neo-0434-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0434-1-2year/CIVET/neo-0434-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0434-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8397690534001221
+Max scale factor: 0.8397690534001221
+neo-0436-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0436-1-1year/CIVET/neo-0436-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0436-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8416968962495214
+Max scale factor: 0.8416968962495214
+neo-0444-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0444-1-1year/CIVET/neo-0444-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0444-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8741800262065774
+Max scale factor: 0.8741800262065774
+neo-0445-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0445-1-1year/CIVET/neo-0445-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0445-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8433586367608511
+Max scale factor: 0.8433586367608511
+neo-0446-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0446-1-1year/CIVET/neo-0446-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0446-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8779801411225794
+Max scale factor: 0.8779801411225794
+neo-0449-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0449-1-1year/CIVET/neo-0449-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0449-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8531955440386709
+Max scale factor: 0.8531955440386709
+neo-0451-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0451-1-1year/CIVET/neo-0451-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0451-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.9463846768520122
+Max scale factor: 0.9463846768520122
+neo-0451-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0451-2-2year/CIVET/neo-0451-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0451-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8511846733225346
+Max scale factor: 0.8511846733225346
+neo-0455-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0455-1-1year/CIVET/neo-0455-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0455-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8493357752478627
+Max scale factor: 0.8493357752478627
+neo-0458-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0458-1-1year/CIVET/neo-0458-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0458-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8281340751567128
+Max scale factor: 0.8281340751567128
+neo-0458-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0458-1-2year/CIVET/neo-0458-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0458-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8341318927036047
+Max scale factor: 0.8341318927036047
+neo-0459-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0459-1-1year/CIVET/neo-0459-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0459-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8497922755430889
+Max scale factor: 0.8497922755430889
+neo-0460-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0460-1-1year/CIVET/neo-0460-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0460-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8328578821065387
+Max scale factor: 0.8328578821065387
+neo-0462-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0462-1-1year/CIVET/neo-0462-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0462-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8438380653565416
+Max scale factor: 0.8438380653565416
+neo-0463-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0463-1-1year/CIVET/neo-0463-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0463-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8529627508428212
+Max scale factor: 0.8529627508428212
+neo-0463-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0463-1-2year/CIVET/neo-0463-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0463-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8385855091879645
+Max scale factor: 0.8385855091879645
+neo-0464-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0464-1-1year/CIVET/neo-0464-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0464-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8293538609923249
+Max scale factor: 0.8293538609923249
+neo-0466-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0466-1-1year/CIVET/neo-0466-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0466-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8523571424552405
+Max scale factor: 0.8523571424552405
+neo-0466-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0466-1-2year/CIVET/neo-0466-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0466-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8294952055853848
+Max scale factor: 0.8294952055853848
+neo-0466-2-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0466-2-1year/CIVET/neo-0466-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0466-2-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8070057189802817
+Max scale factor: 0.8070057189802817
+neo-0466-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0466-2-2year/CIVET/neo-0466-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0466-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8196290585318338
+Max scale factor: 0.8196290585318338
+neo-0468-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0468-1-1year/CIVET/neo-0468-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0468-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8451663680978903
+Max scale factor: 0.8451663680978903
+neo-0469-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0469-1-1year/CIVET/neo-0469-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0469-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8365809335945359
+Max scale factor: 0.8365809335945359
+neo-0471-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0471-1-1year/CIVET/neo-0471-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0471-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8624608329370995
+Max scale factor: 0.8624608329370995
+neo-0471-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0471-2-1-1year/CIVET/neo-0471-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0471-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8308428958805134
+Max scale factor: 0.8308428958805134
+neo-0473-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0473-1-1year/CIVET/neo-0473-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0473-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8694196087571348
+Max scale factor: 0.8694196087571348
+neo-0473-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0473-1-2year/CIVET/neo-0473-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0473-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8437478123829305
+Max scale factor: 0.8437478123829305
+neo-0478-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0478-1-1year/CIVET/neo-0478-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0478-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8423120070953818
+Max scale factor: 0.8423120070953818
+neo-0479-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0479-1-1year/CIVET/neo-0479-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0479-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8560742978051766
+Max scale factor: 0.8560742978051766
+neo-0480-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0480-1-1year/CIVET/neo-0480-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0480-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8441179710714659
+Max scale factor: 0.8441179710714659
+neo-0481-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0481-1-1year/CIVET/neo-0481-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0481-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8472152828849027
+Max scale factor: 0.8472152828849027
+neo-0482-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0482-1-2year/CIVET/neo-0482-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0482-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8477683726848954
+Max scale factor: 0.8477683726848954
+neo-0492-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0492-1-1year/CIVET/neo-0492-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0492-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8576269416919826
+Max scale factor: 0.8576269416919826
+neo-0493-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0493-1-2year/CIVET/neo-0493-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0493-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8342825492674221
+Max scale factor: 0.8342825492674221
+neo-0495-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0495-1-1year/CIVET/neo-0495-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0495-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8621152300095012
+Max scale factor: 0.8621152300095012
+neo-0496-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0496-1-1year/CIVET/neo-0496-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0496-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8387653938031755
+Max scale factor: 0.8387653938031755
+neo-0500-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0500-1-1year/CIVET/neo-0500-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0500-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8544408339003845
+Max scale factor: 0.8544408339003845
+neo-0501-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0501-1-1year/CIVET/neo-0501-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0501-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8286786421332852
+Max scale factor: 0.8286786421332852
+neo-0501-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0501-1-2year/CIVET/neo-0501-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0501-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8352668742477117
+Max scale factor: 0.8352668742477117
+neo-0502-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0502-1-1year/CIVET/neo-0502-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0502-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8355014460646841
+Max scale factor: 0.8355014460646841
+neo-0502-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0502-1-2year/CIVET/neo-0502-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0502-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8284463737893971
+Max scale factor: 0.8284463737893971
+neo-0506-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0506-1-1year/CIVET/neo-0506-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0506-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+neo-0506-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0506-1-2year/CIVET/neo-0506-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0506-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.897498751390217
+Max scale factor: 0.897498751390217
+neo-0508-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0508-1-1year/CIVET/neo-0508-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0508-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8462274923590293
+Max scale factor: 0.8462274923590293
+neo-0510-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0510-1-1year/CIVET/neo-0510-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0510-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8484742654680006
+Max scale factor: 0.8484742654680006
+neo-0511-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0511-1-2year/CIVET/neo-0511-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0511-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8366863036759565
+Max scale factor: 0.8366863036759565
+neo-0513-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0513-1-2year/CIVET/neo-0513-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0513-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8581493829176511
+Max scale factor: 0.8581493829176511
+neo-0518-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0518-1-1year/CIVET/neo-0518-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0518-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8391433721727104
+Max scale factor: 0.8391433721727104
+neo-0522-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0522-1-1year/CIVET/neo-0522-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0522-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8363728441163478
+Max scale factor: 0.8363728441163478
+neo-0523-2-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0523-2-1-1year/CIVET/neo-0523-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0523-2-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8319835053132342
+Max scale factor: 0.8319835053132342
+neo-0524-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0524-1-1year/CIVET/neo-0524-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0524-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8608185999922018
+Max scale factor: 0.8608185999922018
+neo-0524-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0524-1-2year/CIVET/neo-0524-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0524-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8367814772814675
+Max scale factor: 0.8367814772814675
+neo-0528-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0528-1-1year/CIVET/neo-0528-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0528-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.831817299815716
+Max scale factor: 0.831817299815716
+neo-0533-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0533-1-1year/CIVET/neo-0533-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0533-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8411563608742331
+Max scale factor: 0.8411563608742331
+neo-0534-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0534-1-1year/CIVET/neo-0534-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0534-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8409886047477223
+Max scale factor: 0.8409886047477223
+neo-0534-2-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0534-2-2year/CIVET/neo-0534-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0534-2-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8418612675727583
+Max scale factor: 0.8418612675727583
+neo-0535-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0535-1-1-2year/CIVET/neo-0535-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0535-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8304840962798758
+Max scale factor: 0.8304840962798758
+neo-0535-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0535-1-1year/CIVET/neo-0535-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0535-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8201959240036911
+Max scale factor: 0.8201959240036911
+neo-0537-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0537-1-1year/CIVET/neo-0537-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0537-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8532391787886474
+Max scale factor: 0.8532391787886474
+neo-0538-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0538-1-1year/CIVET/neo-0538-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0538-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8430932834345517
+Max scale factor: 0.8430932834345517
+neo-0539-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0539-1-1year/CIVET/neo-0539-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0539-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8366208137046387
+Max scale factor: 0.8366208137046387
+neo-0542-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0542-1-1year/CIVET/neo-0542-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0542-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8070770144614848
+Max scale factor: 0.8070770144614848
+neo-0544-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0544-1-1-2year/CIVET/neo-0544-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0544-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8459845696583402
+Max scale factor: 0.8459845696583402
+neo-0544-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0544-1-1year/CIVET/neo-0544-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0544-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8523979913278044
+Max scale factor: 0.8523979913278044
+neo-0546-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0546-1-1year/CIVET/neo-0546-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0546-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8188327504921113
+Max scale factor: 0.8188327504921113
+neo-0549-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0549-1-1year/CIVET/neo-0549-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0549-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8298912672902656
+Max scale factor: 0.8298912672902656
+neo-0554-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0554-1-1year/CIVET/neo-0554-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0554-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8435345084870484
+Max scale factor: 0.8435345084870484
+neo-0560-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0560-1-1year/CIVET/neo-0560-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0560-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8476743460915385
+Max scale factor: 0.8476743460915385
+neo-0561-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0561-1-1-2year/CIVET/neo-0561-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0561-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8431635391294738
+Max scale factor: 0.8431635391294738
+neo-0562-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0562-1-1-2year/CIVET/neo-0562-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0562-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8412968585677716
+Max scale factor: 0.8412968585677716
+neo-0562-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0562-1-1year/CIVET/neo-0562-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0562-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8562044244178558
+Max scale factor: 0.8562044244178558
+neo-0564-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0564-1-1-2year/CIVET/neo-0564-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0564-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8389442760150471
+Max scale factor: 0.8389442760150471
+neo-0564-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0564-1-1year/CIVET/neo-0564-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0564-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8409979091393444
+Max scale factor: 0.8409979091393444
+neo-0570-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0570-1-1year/CIVET/neo-0570-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0570-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8220569964963484
+Max scale factor: 0.8220569964963484
+neo-0575-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0575-1-1year/CIVET/neo-0575-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0575-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8284014705963704
+Max scale factor: 0.8284014705963704
+neo-0576-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0576-1-1-1year/CIVET/neo-0576-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0576-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8321945672815424
+Max scale factor: 0.8321945672815424
+neo-0578-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0578-1-1-2year/CIVET/neo-0578-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0578-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8468575823303777
+Max scale factor: 0.8468575823303777
+neo-0579-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0579-1-1-1year/CIVET/neo-0579-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0579-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8407032080845912
+Max scale factor: 0.8407032080845912
+neo-0581-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0581-1-1-1year/CIVET/neo-0581-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0581-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8389119969227002
+Max scale factor: 0.8389119969227002
+neo-0582-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0582-1-1-1year/CIVET/neo-0582-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0582-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8513646220677094
+Max scale factor: 0.8513646220677094
+neo-0587-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0587-1-1-2year/CIVET/neo-0587-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0587-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8434423306141263
+Max scale factor: 0.8434423306141263
+neo-0588-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0588-1-1-1year/CIVET/neo-0588-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0588-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8510166000599017
+Max scale factor: 0.8510166000599017
+neo-0588-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0588-1-1-2year/CIVET/neo-0588-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0588-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8504497271425229
+Max scale factor: 0.8504497271425229
+neo-0590-1-1-1year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0590-1-1-1year/CIVET/neo-0590-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0590-1-1-1year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.846489161628474
+Max scale factor: 0.846489161628474
+neo-0590-1-1-2year.nrrd
+Reading:  /ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo-0590-1-1-2year/CIVET/neo-0590-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas/surfaces/stx_neo-0590-1-1-2year-T1_SkullStripped_scaled_BiasCorr_corrected_multi_atlas_white_surface_rsl_right_327680_native_ITKspace.vtk
+Scale factor: 0.8250883668694711
+Max scale factor: 0.8250883668694711

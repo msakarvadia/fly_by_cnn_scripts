@@ -1,0 +1,32 @@
+#!/bin/bash
+
+data_path=/ASD/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+fly_by_path=../fly-by-cnn/src/py
+property=""
+surface=""
+out=""
+
+for f in $data_path
+    do
+        if [[ "$f" == *"mid_surface_rsl_right_327680_native_SA.ascii_100iter.txt" ]]
+            then
+                property=$f
+                out="$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r.nrrd"
+        fi
+        if [[ "$f" == *"white_surface_rsl_right_327680_native_ITKspace.vtk" ]]
+            then
+                surface=$f
+        fi
+        if [[ $property != ""  &&  $surface != "" ]]
+            then
+                echo $out
+                pwd
+                #python3.8 $fly_by_path/fly_by_features.py --surf $surface --property $property --subdivision 4 --out ../data/Conte_right_1_2_fly_by_high_factor/$out --norm_shader 0 --scale_factor 0.9463846768520122
+                python3.8 $fly_by_path/fly_by_features.py --surf $surface --property $property --subdivision 4 --out ../data/Conte_right_1_2_fly_by_small_factor/$out --norm_shader 0 --scale_factor 0.7971917611384308
+                property=""
+                surface=""
+                out=""
+               
+        fi
+
+    done
