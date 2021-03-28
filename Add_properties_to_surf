@@ -1,0 +1,63 @@
+#!/bin/bash
+
+#data_path=/ASD/CIVET_Data_checkBeforeRemove/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+data_path=/ASD/CIVET_Data_checkBeforeRemove/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+fly_by_path=../fly-by-cnn/src/py
+
+
+left_surface=""
+left_out=""
+left_sa=""
+left_ct=""                 
+left_out_sa=""
+left_out_ct=""
+
+right_surface=""
+right_out=""
+right_sa=""
+right_ct=""
+
+for f in $data_path
+    do
+
+        #Do left processing first:
+        if [[ "$f" == *"white_surface_rsl_left_327680_native_ITKspace.vtk" ]]
+            then
+                left_surface=$f
+                left_out="left_$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r.nrrd"
+                #echo $left_out
+        fi
+        #get SA file
+        if [[ "$f" == *"mid_surface_rsl_left_327680_native_SA.ascii_100iter.txt" ]]
+            then
+                left_sa=$f
+                left_out_sa="left_$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r.nrrd"
+                #echo $left_sa
+        fi
+        #get CT file
+        if [[ "$f" == *"left_327680_native_CT_tlaplace_100iter.txt" ]]
+            then
+                left_ct=$f
+                left_out_ct="left_$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r.nrrd"
+                #echo $left_ct
+
+        fi
+        if [[ $left_surface != "" && $left_sa != "" && $left_ct != "" && $left_out==$left_out_sa && $left_out_sa==$left_out_ct ]]
+            then
+                echo "left_sa:"
+                echo $left_sa
+                echo "left_ct:"
+                echo $left_ct
+                #DO THE SCRIPT PROCESSING HERE
+
+                left_surface=""
+                left_out=""
+                left_sa=""
+                left_ct=""
+                left_out_sa=""
+                left_out_ct=""
+            
+        fi
+        
+        #Do right processing first:
+    done

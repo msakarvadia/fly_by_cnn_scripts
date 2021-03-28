@@ -7,6 +7,7 @@ out=""
 
 for f in $data_path
     do
+        echo $f
         if [[ "$f" == *"white_surface_rsl_left_327680_native_ITKspace.vtk" ]]
             then
                 surface=$f

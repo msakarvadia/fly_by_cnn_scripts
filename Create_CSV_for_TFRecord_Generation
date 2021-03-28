@@ -1,10 +1,32 @@
 #!/bin/bash
 
 data_path_left=/work/mansisak/data/Conte/Conte_left_1_2_fly_by_VGG19_features_small/*
-data_path_right=/work/mansisak/data/Conte/Conte_left_1_2_fly_by_VGG19_features_small
-out=""
+data_path_right=/work/mansisak/data/Conte/Conte_left_1_2_fly_by_VGG19_features_small/*
+csv_file_left=/work/mansisak/data/Conte/left_feature_set.csv 
+csv_file_right=/work/mansisak/data/Conte/right_feature_set.csv 
+
+echo "File_path,Label">>$csv_file_left
 
 for f in $data_path_left
     do
-        echo $f
+        if [[ "$f" == *"1year.nrrd" ]]
+            then
+                label=1
+        else
+            label=2
+        fi
+        echo $f,$label>>$csv_file_left
+    done
+
+echo "File_path,Label">>$csv_file_right
+
+for f in $data_path_right
+    do
+        if [[ "$f" == *"1year.nrrd" ]]
+            then
+                label=1
+        else
+            label=2
+        fi
+        echo $f,$label>>$csv_file_right
     done
