@@ -54,6 +54,8 @@ for f in $data_path
                 #DO THE SCRIPT PROCESSING HERE
                 python3 $fly_by_path/add_property_to_surface.py --surf $left_surface --property_file $left_sa  --property_name "SURFACE_AREA" --out ../data/Conte/left_surf_sa_ct_norm/$left_out 
                 python3 $fly_by_path/add_property_to_surface.py --surf ../data/Conte/left_surf_sa_ct_norm/$left_out --property_file $left_ct  --property_name "CORTICAL_THICKNESS" --out ../data/Conte/left_surf_sa_ct_norm/$left_out 
+                #python3 $fly_by_path/add_property_to_surface.py --surf $left_surface --property_file $left_sa  --property_name "SURFACE_AREA" --out ../data/Conte/test/$left_out 
+                #python3 $fly_by_path/add_property_to_surface.py --surf ../data/Conte/test/$left_out --property_file $left_ct  --property_name "CORTICAL_THICKNESS" --out ../data/Conte/left_surf_sa_ct_norm/$left_out 
 
                 left_surface=""
                 left_out=""

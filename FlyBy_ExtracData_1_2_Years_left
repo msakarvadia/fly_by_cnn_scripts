@@ -2,19 +2,22 @@
 
 data_path=/work/mansisak/data/Conte/left_surf_sa_ct_norm/*
 fly_by_path=../fly-by-cnn/src/py
-property=""
-surface=""
 out=""
 
 for f in $data_path
     do
-        #if [[ "$f" == *"mid_surface_rsl_left_327680_native_SA.ascii_100iter.txt" ]]
-        #    then
-        #        property=$f
-        #        out="$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r.nrrd"
-        #fi
         out="$(echo $f | egrep -o 'left_neo[^r]*' | head -n1 )r.nrrd"
         echo $out
-        python3.8 $fly_by_path/fly_by_features.py --surf $f --spiral 16 --out ../data/Conte/left_surf_sa_ct_norm_seq/$out --norm_shader 0 --scale_factor 0.8049401485964498 --resolution 256 --radius 2 --split_z 1 --point_features [NORMALS, DEPTH, SURFACE_AREA, CORTICAL_THICKNESS]
+        python3 $fly_by_path/fly_by_features.py --surf $f --spiral 16 --out ../data/Conte/left_surf_sa_ct_norm_seq/$out --norm_shader 0 --scale_factor 0.8049401485964498 --resolution 256 --radius 2 --split_z 1 --use_z 1 --point_features normals SURFACE_AREA CORTICAL_THICKNESS --point_features_concat 1
+
+    done
+
+data_path=/work/mansisak/data/Conte/right_surf_sa_ct_norm/*
+
+for f in $data_path
+    do
+        out="$(echo $f | egrep -o 'right_neo[^r]*' | head -n1 )r.nrrd"
+        echo $out
+        python3 $fly_by_path/fly_by_features.py --surf $f --spiral 16 --out ../data/Conte/right_surf_sa_ct_norm_seq/$out --norm_shader 0 --scale_factor 0.7971917611384308 --resolution 256 --radius 2 --split_z 1 --use_z 1 --point_features normals SURFACE_AREA CORTICAL_THICKNESS --point_features_concat 1
 
     done

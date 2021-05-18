@@ -1,9 +1,9 @@
 #!/bin/bash
 
-data_path_left=/work/mansisak/data/Conte/Conte_left_1_2_fly_by_VGG19_features_small/*
-data_path_right=/work/mansisak/data/Conte/Conte_left_1_2_fly_by_VGG19_features_small/*
-csv_file_left=/work/mansisak/data/Conte/left_feature_set.csv 
-csv_file_right=/work/mansisak/data/Conte/right_feature_set.csv 
+data_path_left=/work/mansisak/data/Conte/sa_ct_norm/left_surf_sa_ct_norm_seq/*
+data_path_right=/work/mansisak/data/Conte/sa_ct_norm/right_surf_sa_ct_norm_seq/*
+csv_file_left=/work/mansisak/data/Conte/sa_ct_norm/left_feature_set.csv 
+csv_file_right=/work/mansisak/data/Conte/sa_ct_norm/right_feature_set.csv 
 
 echo "File_path,Label">>$csv_file_left
 
