@@ -1,0 +1,111 @@
+#!/bin/bash
+
+#data_path=/ASD/CIVET_Data_checkBeforeRemove/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+#data_path=/ASD/CIVET_Data_checkBeforeRemove/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+data_path=/Human2/CONTE_TWINS-PrePrisma-CIVET/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/TWINS/T*/CIVET/T*/surfaces/*
+fly_by_path=../fly-by-cnn/src/py
+
+
+left_surface=""
+left_out=""
+left_sa=""
+left_ct=""                 
+left_out_sa=""
+left_out_ct=""
+
+right_surface=""
+right_out=""
+right_sa=""
+right_ct=""
+right_out_sa=""
+right_out_ct=""
+
+for f in $data_path
+    do
+
+        #Do left processing:
+        if [[ "$f" == *"white_surface_rsl_left_327680_native_ITKspace.vtk" ]]
+            then
+                left_surface=$f
+                left_out="left_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r.vtk"
+                #echo $left_out
+        fi
+        #get SA file
+        if [[ "$f" == *"mid_surface_rsl_left_327680_native_SA.ascii_100iter.txt" ]]
+            then
+                left_sa=$f
+                left_out_sa="left_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r.vtk"
+                #echo $left_sa
+        fi
+        #get CT file
+        if [[ "$f" == *"left_327680_native_CT_tlaplace_100iter.txt" ]]
+            then
+                left_ct=$f
+                left_out_ct="left_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r.vtk"
+                #echo $left_ct
+
+        fi
+        if [[ $left_surface != "" && $left_sa != "" && $left_ct != "" && $left_out==$left_out_sa && $left_out_sa==$left_out_ct ]]
+            then
+                #echo "left_sa:"
+                #echo $left_sa
+                #echo "left_ct:"
+                #echo $left_ct
+                echo "LEFT PROCESSING"
+                #DO THE SCRIPT PROCESSING HERE
+                python3 $fly_by_path/add_property_to_surface.py --surf $left_surface --property_file $left_sa  --property_name "SURFACE_AREA" --out ../data/Conte/sa_ct_sd_norm/left_twin/$left_out 
+                python3 $fly_by_path/add_property_to_surface.py --surf ../data/Conte/sa_ct_sd_norm/left_twin/$left_out --property_file $left_ct  --property_name "CORTICAL_THICKNESS" --out ../data/Conte/sa_ct_sd_norm/left_twin/$left_out 
+                #python3 $fly_by_path/add_property_to_surface.py --surf $left_surface --property_file $left_sa  --property_name "SURFACE_AREA" --out ../data/Conte/test/$left_out 
+                #python3 $fly_by_path/add_property_to_surface.py --surf ../data/Conte/test/$left_out --property_file $left_ct  --property_name "CORTICAL_THICKNESS" --out ../data/Conte/left_surf_sa_ct_norm/$left_out 
+
+                left_surface=""
+                left_out=""
+                left_sa=""
+                left_ct=""
+                left_out_sa=""
+                left_out_ct=""
+            
+        fi
+        
+        #Do right processing first:
+        if [[ "$f" == *"white_surface_rsl_right_327680_native_ITKspace.vtk" ]]
+            then
+                right_surface=$f
+                right_out="right_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r.vtk"
+                #echo $right_out
+        fi
+        #get SA file
+        if [[ "$f" == *"mid_surface_rsl_right_327680_native_SA.ascii_100iter.txt" ]]
+            then
+                right_sa=$f
+                right_out_sa="right_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r.vtk"
+                #echo $right_sa
+        fi
+        #get CT file
+        if [[ "$f" == *"right_327680_native_CT_tlaplace_100iter.txt" ]]
+            then
+                right_ct=$f
+                right_out_ct="right_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r.vtk"
+                #echo $right_ct
+
+        fi
+        if [[ $right_surface != "" && $right_sa != "" && $right_ct != "" && $right_out==$right_out_sa && $right_out_sa==$right_out_ct ]]
+            then
+                #echo "right_sa:"
+                #echo $right_sa
+                #echo "right_ct:"
+                #echo $right_ct
+                echo "RIGHT PROCESSING"
+                python3 $fly_by_path/add_property_to_surface.py --surf $right_surface --property_file $right_sa  --property_name "SURFACE_AREA" --out ../data/Conte/sa_ct_sd_norm/right_twin/$right_out 
+                python3 $fly_by_path/add_property_to_surface.py --surf ../data/Conte/sa_ct_sd_norm/right_twin/$right_out --property_file $right_ct  --property_name "CORTICAL_THICKNESS" --out ../data/Conte/sa_ct_sd_norm/right_twin/$right_out 
+                #DO THE SCRIPT PROCESSING HERE
+
+                right_surface=""
+                right_out=""
+                right_sa=""
+                right_ct=""
+                right_out_sa=""
+                right_out_ct=""
+            
+        fi
+    done

@@ -1,0 +1,38 @@
+#!/bin/bash
+
+#data_path=/ASD/CIVET_Data_checkBeforeRemove/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+conte_data_path=/Human2/CONTE_TWINS-PrePrisma-CIVET/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+#twin_data_path=/Human2/CONTE_TWINS-PrePrisma-CIVET/CIVET_Data/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+fly_by_path=../fly-by-cnn/src/py
+#TODO do twins too!!
+
+
+left_obj=""
+left_out=""
+
+right_obj=""
+right_out=""
+
+for f in $conte_data_path
+    do
+        #Do left processing:
+        if [[ "$f" == *"white_surface_rsl_left_327680_native_ITKspace.obj" ]]
+            then
+                left_obj=$f
+                left_out="left_$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r_sulcal_depth_left.txt"
+                echo "LEFT PROCESSING"
+                #DO THE SCRIPT PROCESSING HERE
+                depth_potential $left_obj -depth_potential /work/mansisak/data/Conte/sa_ct_sd_norm/sulcal_depth_text_files/$left_out
+                echo $left_out
+        fi
+        
+        #Do right processing first:
+        if [[ "$f" == *"white_surface_rsl_right_327680_native_ITKspace.obj" ]]
+            then
+                right_obj=$f
+                right_out="right_$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r_sulcal_depth_right.txt"
+                echo "RIGHT PROCESSING"
+                depth_potential $right_obj -depth_potential /work/mansisak/data/Conte/sa_ct_sd_norm/sulcal_depth_text_files/$right_out
+                echo $right_out
+        fi
+    done
