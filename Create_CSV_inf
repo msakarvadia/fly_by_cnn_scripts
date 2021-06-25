@@ -1,11 +1,11 @@
 #!/bin/bash
 
-data_path_left=/work/mansisak/data/Conte/sa_ct_sd_norm/left_surf_sa_ct_sd_depth_norm_seq/*
-data_path_right=/work/mansisak/data/Conte/sa_ct_sd_norm/right_surf_sa_ct_sd_depth_norm_seq/*
+data_path_left=/work/mansisak/data/Conte/sa_ct_sd_norm/left_surf_sa_ct_sd_depth_norm_seq_inf/*
+data_path_right=/work/mansisak/data/Conte/sa_ct_sd_norm/right_surf_sa_ct_sd_depth_norm_seq_inf/*
 
-csv_file_train_yr=/work/mansisak/data/Conte/sa_ct_sd_norm/train_yr.csv 
-csv_file_test_yr=/work/mansisak/data/Conte/sa_ct_sd_norm/test_yr.csv 
-csv_file_val_yr=/work/mansisak/data/Conte/sa_ct_sd_norm/val_yr.csv 
+csv_file_train_yr=/work/mansisak/data/Conte/sa_ct_sd_norm/train_yr_inf.csv 
+csv_file_test_yr=/work/mansisak/data/Conte/sa_ct_sd_norm/test_yr_inf.csv 
+csv_file_val_yr=/work/mansisak/data/Conte/sa_ct_sd_norm/val_yr_inf.csv 
 
 input=input
 cases=cases
@@ -18,14 +18,14 @@ cases=cases
 
 for l in $data_path_left
     do
-    left=${l:79}
+    left=${l:83}
     #echo $left
     echo $left>>$input
     done
 
 for r in $data_path_right
     do
-    right=${r:81}
+    right=${r:85}
     #echo $right
     echo $right>>$input
     done
@@ -53,7 +53,7 @@ echo "File_path,Label">>$csv_file_val_yr
 
 for f in $data_path_left
     do
-        left=${f:79}
+        left=${f:83}
         echo $left
         #get label
         if [[ "$f" == *"1year.nrrd" ]]
@@ -84,7 +84,7 @@ for f in $data_path_left
 
 for f in $data_path_right
     do
-        right=${f:81}
+        right=${f:85}
         echo $right
         #get label
         if [[ "$f" == *"1year.nrrd" ]]

@@ -1,0 +1,42 @@
+#!/bin/bash
+
+#data_path=/ASD/CIVET_Data_checkBeforeRemove/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/T0*/CIVET/T0*/surfaces/*
+left_data_path=/work/mansisak/data/Conte/sa_ct_sd_norm/left_twin/*
+right_data_path=/work/mansisak/data/Conte/sa_ct_sd_norm/right_twin/*
+fly_by_path=../fly-by-cnn/src/py
+
+
+left_surface=""
+left_out=""
+left_sd=""
+
+right_surface=""
+right_out=""
+right_sd=""
+
+for f in $left_data_path
+    do
+        
+        left_surface=$f
+        left_out="/work/mansisak/data/Conte/sa_ct_sd_norm/sa_ct_sd_vtk_twin/left_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r.vtk"
+        left_sd="/work/mansisak/data/Conte/sa_ct_sd_norm/sulcal_depth_text_files/left_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r_sulcal_depth.txt"
+        echo $left_surface
+        echo $left_out
+        echo $left_sd
+        #Do left processing:
+        echo "LEFT PROCESSING"
+        python3 $fly_by_path/add_property_to_surface.py --surf $left_surface --property_file $left_sd  --property_name "SULCAL_DEPTH" --out $left_out 
+    done
+for f in $right_data_path
+    do
+        
+        right_surface=$f
+        right_out="/work/mansisak/data/Conte/sa_ct_sd_norm/sa_ct_sd_vtk_twin/right_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r.vtk"
+        right_sd="/work/mansisak/data/Conte/sa_ct_sd_norm/sulcal_depth_text_files/right_$(echo $f | egrep -o 'T0[^r]*' | head -n1 )r_sulcal_depth.txt"
+        echo $right_surface
+        echo $right_out
+        echo $right_sd
+        #Do right processing:
+        echo "right PROCESSING"
+        python3 $fly_by_path/add_property_to_surface.py --surf $right_surface --property_file $right_sd  --property_name "SULCAL_DEPTH" --out $right_out 
+    done
