@@ -1,0 +1,36 @@
+#!/bin/bash
+
+#data_path=/Anorm/CIVET_Data_checkBeforeRemove/CONTE_1-2year_MULTISEGandCIVET_Data_Sept2017/CONTE/neo*/CIVET/neo*/surfaces/*
+data_path=/work/mansisak/data/Conte/sa_ct_sd_norm/sa_ct_sd_vtk_conte_wm_inflated_surf/*
+fly_by_path=../fly-by-cnn/src/py
+
+for f in $data_path
+    do
+        if [[ $f == *"left"* ]]
+            then
+                echo "left surf:"
+                left_surface=$f
+                left_out=$left_surface
+                left_norm="/work/mansisak/data/Conte/sa_ct_sd_norm/original_wm_surf_norm_text_files/left_$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r_original_norm.txt"
+                echo $left_surface
+                echo $left_out
+                echo $left_norm
+                #Do left processing:
+                echo "LEFT PROCESSING"
+                python3 $fly_by_path/add_normal_to_surface.py --surf $left_surface --property_file $left_norm  --property_name "ORIG_NORM" --out $left_out 
+        fi
+
+        if [[ $f == *"right"* ]]
+            then
+                right_surface=$f
+                right_out=$right_surface
+                right_norm="/work/mansisak/data/Conte/sa_ct_sd_norm/original_wm_surf_norm_text_files/right_$(echo $f | egrep -o 'neo[^r]*' | head -n1 )r_original_norm.txt"
+                echo $right_surface
+                echo $right_out
+                echo $right_norm
+                #Do right processing:
+                echo "right PROCESSING"
+                python3 $fly_by_path/add_normal_to_surface.py --surf $right_surface --property_file $right_norm  --property_name "ORIG_NORM" --out $right_out 
+        fi
+
+    done
